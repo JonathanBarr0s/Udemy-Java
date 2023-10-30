@@ -34,7 +34,7 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">Saída de Dados em Java</td>
             <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/01.%20Setup%20de%20ferramentas">Código</a></td>
             <td align="center">Java</td>
-            <td>O objetivo é criar um novo repositório no GitHub chamado "hello-world", cloná-lo para a máquina, criar um arquivo JavaScript que exibe a mensagem "Hello World", executá-lo, fazer um commit e um push para enviar as alterações para o GitHub. Por fim, compartilhar o link do repositório com colegas e realizar uma tarefa extra de modificar o arquivo README.md.</td>
+            <td>Breve Descrição.</td>
         </tr>
     </table>
 </div>
