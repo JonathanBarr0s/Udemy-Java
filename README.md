@@ -34,7 +34,7 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">Saída de Dados em Java</td>
             <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/01.%20Setup%20de%20ferramentas">Código</a></td>
             <td align="center">Java</td>
-            <td>Breve Descrição.</td>
+            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
         </tr>
     </table>
 </div>
