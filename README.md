@@ -41,37 +41,37 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">Somando Números</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/02.%20Somando%20N%C3%BAmeros">Código</a></td>
             <td align="center">Java</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>O programa deverá mostrar a soma de dois números inteiros inseridos, exibindo o resultado com a mensagem "SOMA = resultado".</td>
         </tr>
         <tr>
             <td align="center">Área do Círculo</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/03.%20%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
             <td align="center">Java</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>calcular a área de um círculo, dado o raio, usando a fórmula A = π * raio².</td>
         </tr>
         <tr>
             <td align="center">Diferença do Produto</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/04.%20Diferen%C3%A7a%20do%20Produto">Código</a></td>
             <td align="center">Java</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>O programa deverá calcular e mostrar a diferença entre o produto de A e B e o produto de C e D.</td>
         </tr>
         <tr>
             <td align="center">Salário do Funcionário</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/05.%20Sal%C3%A1rio%20do%20Funcion%C3%A1rio">Código</a></td>
             <td align="center">Java</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>Calcular o salário de um funcionário com base em horas trabalhadas e valor por hora. O programa lerá os dados e exibirá o número do funcionário e seu salário.</td>
         </tr>
         <tr>
             <td align="center">Caixa de Depósito</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/06.%20Caixa%20de%20Dep%C3%B3sito">Código</a></td>
             <td align="center">Java</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>Ler dados de duas peças, calcular o valor total a pagar multiplicando as quantidades pelo preço unitário de cada uma e exibir o resultado.</td>
         </tr>
         <tr>
             <td align="center">Área das Figuras</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/07.%20%C3%81rea%20das%20Figuras">Código</a></td>
             <td align="center">Java</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>Calcular e exibir áreas de figuras geométricas a partir de valores dados. Serão calculadas áreas de triângulo, círculo, trapézio, quadrado e retângulo com base nos valores fornecidos.</td>
         </tr>
     </table>
 </div>
