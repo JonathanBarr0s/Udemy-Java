@@ -39,37 +39,37 @@ Aqui estão todas as atividades que realizei durante o curso:
         </tr>
         <tr>
             <td align="center">Somando Números</td>
-            <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/01.%20Setup%20de%20ferramentas">Código</a></td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/02.%20Somando%20N%C3%BAmeros">Código</a></td>
             <td align="center">Java</td>
             <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
         </tr>
         <tr>
             <td align="center">Área do Círculo</td>
-            <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/01.%20Setup%20de%20ferramentas">Código</a></td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/03.%20%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
             <td align="center">Java</td>
             <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
         </tr>
         <tr>
             <td align="center">Diferença do Produto</td>
-            <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/01.%20Setup%20de%20ferramentas">Código</a></td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/04.%20Diferen%C3%A7a%20do%20Produto">Código</a></td>
             <td align="center">Java</td>
             <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
         </tr>
         <tr>
             <td align="center">Salário do Funcionário</td>
-            <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/01.%20Setup%20de%20ferramentas">Código</a></td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/05.%20Sal%C3%A1rio%20do%20Funcion%C3%A1rio">Código</a></td>
             <td align="center">Java</td>
             <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
         </tr>
         <tr>
             <td align="center">Caixa de Depósito</td>
-            <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/01.%20Setup%20de%20ferramentas">Código</a></td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/06.%20Caixa%20de%20Dep%C3%B3sito">Código</a></td>
             <td align="center">Java</td>
             <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
         </tr>
         <tr>
             <td align="center">Área das Figuras</td>
-            <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/01.%20Setup%20de%20ferramentas">Código</a></td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/07.%20%C3%81rea%20das%20Figuras">Código</a></td>
             <td align="center">Java</td>
             <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
         </tr>
