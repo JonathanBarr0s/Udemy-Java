@@ -1,28 +1,43 @@
-# Exercício - Saída de Dados
+# Exercício - Área do Círculo
 
-Em um novo programa, inicie as seguintes variáveis:
+Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo com quatro casas decimais conforme exemplos.
 
-```
-String product1 = "Computer";
-String product2 = "Office desk";
-int age = 30;
-int code = 5290;
-char gender = 'F';
-double price1 = 2100.0;
-double price2 = 650.50;
-double measure = 53.234567;
-```
+Fórmula da área: area = π . raio²
 
-Em seguida, usando os valores das variáveis, produza a seguinte saída na tela do console:
+Considere o valor de π = 3.14159
+
+### Exemplo de Entrada:
 
 ```
-Products:
-Computer, which price is $ 2100,00
-Office desk, which price is $ 650,50
+2.00
+```
 
-Record: 30 years old, code 5290 and gender: F
+### Exemplo de Saída:
 
-Measue with eight decimal places: 53,23456700
-Rouded (three decimal places): 53,235
-US decimal point: 53.235
+```
+A=12.5664
+```
+
+### Exemplo de Entrada:
+
+```
+100.64
+```
+
+### Exemplo de Saída:
+
+```
+A=31819.3103
+```
+
+### Exemplo de Entrada:
+
+```
+150.00
+```
+
+### Exemplo de Saída:
+
+```
+A=70685.7750
 ```
