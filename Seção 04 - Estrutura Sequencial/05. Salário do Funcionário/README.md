@@ -1,28 +1,48 @@
-# Exercício - Saída de Dados
+# Exercício - Somando Números
 
-Em um novo programa, inicie as seguintes variáveis:
+Fazer um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
 
-```
-String product1 = "Computer";
-String product2 = "Office desk";
-int age = 30;
-int code = 5290;
-char gender = 'F';
-double price1 = 2100.0;
-double price2 = 650.50;
-double measure = 53.234567;
-```
-
-Em seguida, usando os valores das variáveis, produza a seguinte saída na tela do console:
+### Exemplo de Entrada:
 
 ```
-Products:
-Computer, which price is $ 2100,00
-Office desk, which price is $ 650,50
+25
+100
+5.50
+```
 
-Record: 30 years old, code 5290 and gender: F
+### Exemplo de Saída:
 
-Measue with eight decimal places: 53,23456700
-Rouded (three decimal places): 53,235
-US decimal point: 53.235
+```
+NUMBER = 25
+SALARY = U$ 550.00
+```
+
+### Exemplo de Entrada:
+
+```
+1
+200
+20.50
+```
+
+### Exemplo de Saída:
+
+```
+NUMBER = 1
+SALARY = U$ 4100.00
+```
+
+### Exemplo de Entrada:
+
+```
+6
+145
+15.55
+```
+
+### Exemplo de Saída:
+
+```
+NUMBER = 6
+SALARY = U$ 2254.75
 ```
