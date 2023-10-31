@@ -42,4 +42,4 @@ VALOR A PAGAR: R$ 30.20
 ```
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/02.%20Somando%20N%C3%BAmeros/SomandoNumeros/src/Main.java) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/06.%20Caixa%20de%20Dep%C3%B3sito/CaixaDeDeposito/src/Main.java) minha resposta.
