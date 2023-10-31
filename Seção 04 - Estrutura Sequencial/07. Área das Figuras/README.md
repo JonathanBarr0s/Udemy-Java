@@ -1,4 +1,4 @@
-# Exercício - Somando Números
+# Exercício - Área das Figuras
 
 Fazer um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e mostre:
 
