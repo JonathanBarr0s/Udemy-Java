@@ -43,4 +43,4 @@ A=70685.7750
 ```
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/02.%20Somando%20N%C3%BAmeros/SomandoNumeros/src/Main.java) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/03.%20%C3%81rea%20do%20C%C3%ADrculo/AreaDoCirculo/src/Main.java) minha resposta.
