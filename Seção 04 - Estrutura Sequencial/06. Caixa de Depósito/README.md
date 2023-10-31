@@ -40,3 +40,6 @@ VALOR A PAGAR: R$ 51.40
 ```
 VALOR A PAGAR: R$ 30.20
 ```
+---
+
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/02.%20Somando%20N%C3%BAmeros/SomandoNumeros/src/Main.java) minha resposta.
