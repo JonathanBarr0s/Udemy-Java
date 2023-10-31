@@ -48,4 +48,4 @@ SALARY = U$ 2254.75
 ```
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/02.%20Somando%20N%C3%BAmeros/SomandoNumeros/src/Main.java) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/05.%20Sal%C3%A1rio%20do%20Funcion%C3%A1rio/SalarioFuncionario/src/Main.java) minha resposta.
