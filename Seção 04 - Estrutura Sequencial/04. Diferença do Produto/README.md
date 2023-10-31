@@ -33,4 +33,4 @@ DIFERENCA = 86
 ```
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/02.%20Somando%20N%C3%BAmeros/SomandoNumeros/src/Main.java) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/04.%20Diferen%C3%A7a%20do%20Produto/Diferen%C3%A7aDoProduto/src/Main.java) minha resposta.
