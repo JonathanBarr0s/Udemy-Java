@@ -1,28 +1,33 @@
-# Exercício - Saída de Dados
+# Exercício - Somando Números
 
-Em um novo programa, inicie as seguintes variáveis:
+Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).
 
-```
-String product1 = "Computer";
-String product2 = "Office desk";
-int age = 30;
-int code = 5290;
-char gender = 'F';
-double price1 = 2100.0;
-double price2 = 650.50;
-double measure = 53.234567;
-```
-
-Em seguida, usando os valores das variáveis, produza a seguinte saída na tela do console:
+### Exemplo de Entrada:
 
 ```
-Products:
-Computer, which price is $ 2100,00
-Office desk, which price is $ 650,50
+5
+6
+7
+8
+```
 
-Record: 30 years old, code 5290 and gender: F
+### Exemplo de Saída:
 
-Measue with eight decimal places: 53,23456700
-Rouded (three decimal places): 53,235
-US decimal point: 53.235
+```
+DIFERENCA = -26
+```
+
+### Exemplo de Entrada:
+
+```
+5
+6
+-7
+8
+```
+
+### Exemplo de Saída:
+
+```
+DIFERENCA = 86
 ```
