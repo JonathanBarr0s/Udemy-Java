@@ -33,7 +33,7 @@ Aqui estão todas as atividades que realizei durante o curso:
         </tr>
         <tr>
             <td align="center">Saída de Dados em Java</td>
-            <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/01.%20Setup%20de%20ferramentas">Código</a></td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/01.%20Sa%C3%ADda%20de%20Dados%20em%20Java">Código</a></td>
             <td align="center">Java</td>
             <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
         </tr>
