@@ -92,43 +92,43 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">Par Ou Impar</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/02.%20Par%20Ou%20Impar">Código</a></td>
             <td align="center">Java</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar.</td>
         </tr>
         <tr>
             <td align="center">São Múltiplos Ou Não São</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/03.%20S%C3%A3o%20M%C3%BAltiplos%20Ou%20N%C3%A3o%20S%C3%A3o">Código</a></td>
             <td align="center">Java</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>Determinar se dois valores inteiros (A e B) são múltiplos entre si. Uma mensagem indicará se são ou não são múltiplos, independentemente da ordem de entrada.</td>
         </tr>
         <tr>
             <td align="center">Tempo de Jogo</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/04.%20Tempo%20de%20Jogo">Código</a></td>
             <td align="center">Java</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>Determinar a duração de um jogo, permitindo iniciar e terminar em dias diferentes, com duração entre 1 e 24 horas.</td>
         </tr>
         <tr>
             <td align="center">Caixa de Lanchonete</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/05.%20Caixa%20de%20Lanchonete">Código</a></td>
             <td align="center">Java</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>Criar um programa que calculará o total a pagar de um pedido em uma lanchonete com base no código e na quantidade de itens selecionados.</td>
         </tr>
         <tr>
             <td align="center">Intervalo</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/06.%20Intervalo">Código</a></td>
             <td align="center">Java</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>Determinar um programa que verificará em qual intervalo está um valor digitado, exibindo o intervalo correspondente ou "Fora de intervalo" se não estiver em nenhum.</td>
         </tr>
         <tr>
             <td align="center">Coordenadas</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/07.%20Coordenadas">Código</a></td>
             <td align="center">Java</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>Criar um programa que identificará a posição de um ponto no plano cartesiano. Ele lê duas coordenadas (x, y) e determina se está na origem, sobre um eixo (X ou Y) ou em um dos quadrantes.</td>
         </tr>
         <tr>
             <td align="center">Calculando Imposto</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/08.%20Calculando%20Imposto">Código</a></td>
             <td align="center">Java</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>Criar um programa que calculará o imposto de renda de acordo com a tabela de alíquotas em Lisarb, baseado no salário informado, exibindo o valor a pagar com duas casas decimais.</td>
         </tr>
     </table>
 </div>
