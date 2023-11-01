@@ -9,42 +9,27 @@ Com base na tabela abaixo, escreva um programa que leia o código de um item e a
 ### Exemplo de Entrada:
 
 ```
-10
-30
+3 2
 ```
 
 ### Exemplo de Saída:
 
 ```
-SOMA = 40
+Total: R$ 10.00
 ```
 
 ### Exemplo de Entrada:
 
 ```
--30
-10
+2 3
 ```
 
 ### Exemplo de Saída:
 
 ```
-SOMA = -20
-```
-
-### Exemplo de Entrada:
-
-```
-0
-0
-```
-
-### Exemplo de Saída:
-
-```
-SOMA = 0
+Total: R$ 13.50
 ```
 
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/02.%20Somando%20N%C3%BAmeros/SomandoNumeros/src/Main.java) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/05.%20Caixa%20de%20Lanchonete/CaixaDeLanchonete/src/Main.java) minha resposta.
