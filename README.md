@@ -73,6 +73,63 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">Java</td>
             <td>Calcular e exibir áreas de figuras geométricas a partir de valores dados. Serão calculadas áreas de triângulo, círculo, trapézio, quadrado e retângulo com base nos valores fornecidos.</td>
         </tr>
+              <tr>
+            <th colspan="4">Estrutura Condicional</th>
+        </tr>
+        <tr>
+            <th>Exercício</th>
+            <th>Solução</th>
+            <th>Tecnologia</th>
+            <th>Descrição</th>
+        </tr>
+        <tr>
+            <td align="center">Positivo Ou Negativo</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/01.%20Positivo%20Ou%20Negativo">Código</a></td>
+            <td align="center">Java</td>
+            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+        </tr>
+        <tr>
+            <td align="center">Par Ou Impar</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/02.%20Par%20Ou%20Impar">Código</a></td>
+            <td align="center">Java</td>
+            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+        </tr>
+        <tr>
+            <td align="center">São Múltiplos Ou Não São</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/03.%20S%C3%A3o%20M%C3%BAltiplos%20Ou%20N%C3%A3o%20S%C3%A3o">Código</a></td>
+            <td align="center">Java</td>
+            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+        </tr>
+        <tr>
+            <td align="center">Tempo de Jogo</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/04.%20Tempo%20de%20Jogo">Código</a></td>
+            <td align="center">Java</td>
+            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+        </tr>
+        <tr>
+            <td align="center">Caixa de Lanchonete</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/05.%20Caixa%20de%20Lanchonete">Código</a></td>
+            <td align="center">Java</td>
+            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+        </tr>
+        <tr>
+            <td align="center">Intervalo</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/06.%20Intervalo">Código</a></td>
+            <td align="center">Java</td>
+            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+        </tr>
+        <tr>
+            <td align="center">Coordenadas</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/07.%20Coordenadas">Código</a></td>
+            <td align="center">Java</td>
+            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+        </tr>
+        <tr>
+            <td align="center">Calculando Imposto</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/08.%20Calculando%20Imposto">Código</a></td>
+            <td align="center">Java</td>
+            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+        </tr>
     </table>
 </div>
 
