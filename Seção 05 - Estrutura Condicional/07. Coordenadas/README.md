@@ -6,6 +6,10 @@ Se o ponto estiver na origem, escreva a mensagem “Origem”.
 
 Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a situação.
 
+<p align="center">
+  <img src="https://github.com/JonathanBarr0s/Udemy-Java/assets/132490863/2281a6e6-903d-426f-9eb3-4059fa94c9aa">
+</p>
+
 ### Exemplo de Entrada:
 
 ```
