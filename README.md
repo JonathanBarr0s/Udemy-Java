@@ -86,7 +86,7 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">Positivo Ou Negativo</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/01.%20Positivo%20Ou%20Negativo">Código</a></td>
             <td align="center">Java</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.</td>
         </tr>
         <tr>
             <td align="center">Par Ou Impar</td>
