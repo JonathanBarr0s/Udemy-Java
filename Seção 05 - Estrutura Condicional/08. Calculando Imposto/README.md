@@ -1,31 +1,49 @@
-# Exercício - Saída de Dados
+# Exercício - Calculando Imposto
 
-Em um novo programa, inicie as seguintes variáveis:
+Em um país imaginário denominado Lisarb, todos os habitantes ficam felizes em pagar seus impostos, pois sabem que nele não existem políticos corruptos e os recursos arrecadados são utilizados em benefício da população, sem
+qualquer desvio. A moeda deste país é o Rombus, cujo símbolo é o R$. 
 
-```
-String product1 = "Computer";
-String product2 = "Office desk";
-int age = 30;
-int code = 5290;
-char gender = 'F';
-double price1 = 2100.0;
-double price2 = 650.50;
-double measure = 53.234567;
-```
+Leia um valor com duas casas decimais, equivalente ao salário de uma pessoa de Lisarb. Em seguida, calcule e mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo.
 
-Em seguida, usando os valores das variáveis, produza a seguinte saída na tela do console:
+Lembre que, se o salário for R$ 3002.00, a taxa que incide é de 8% apenas sobre R$ 1000.00, pois a faixa de salário que fica de R$ 0.00 até R$ 2000.00 é isenta de Imposto de Renda. No exemplo fornecido (abaixo), a taxa é
+de 8% sobre R$ 1000.00 + 18% sobre R$ 2.00, o que resulta em R$ 80.36 no total. O valor deve ser impresso com duas casas decimais.
+
+### Exemplo de Entrada:
 
 ```
-Products:
-Computer, which price is $ 2100,00
-Office desk, which price is $ 650,50
-
-Record: 30 years old, code 5290 and gender: F
-
-Measue with eight decimal places: 53,23456700
-Rouded (three decimal places): 53,235
-US decimal point: 53.235
+3002.00
 ```
+
+### Exemplo de Saída:
+
+```
+R$ 80.36
+```
+
+### Exemplo de Entrada:
+
+```
+1701.12
+```
+
+### Exemplo de Saída:
+
+```
+Isento
+```
+
+### Exemplo de Entrada:
+
+```
+4520.00
+```
+
+### Exemplo de Saída:
+
+```
+R$ 355.60
+```
+
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/01.%20Sa%C3%ADda%20de%20Dados%20em%20Java/Primeiro_Programa/src/Main.java) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/08.%20Calculando%20Imposto/CalculandoImposto/src/Main.java) minha resposta.
