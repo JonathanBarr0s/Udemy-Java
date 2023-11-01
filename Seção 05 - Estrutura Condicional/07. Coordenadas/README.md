@@ -1,31 +1,47 @@
-# Exercício - Saída de Dados
+# Exercício - Coordenadas
 
-Em um novo programa, inicie as seguintes variáveis:
+Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto em um plano. A seguir, determine qual o quadrante ao qual pertence o ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0).
 
-```
-String product1 = "Computer";
-String product2 = "Office desk";
-int age = 30;
-int code = 5290;
-char gender = 'F';
-double price1 = 2100.0;
-double price2 = 650.50;
-double measure = 53.234567;
-```
+Se o ponto estiver na origem, escreva a mensagem “Origem”.
 
-Em seguida, usando os valores das variáveis, produza a seguinte saída na tela do console:
+Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a situação.
+
+### Exemplo de Entrada:
 
 ```
-Products:
-Computer, which price is $ 2100,00
-Office desk, which price is $ 650,50
-
-Record: 30 years old, code 5290 and gender: F
-
-Measue with eight decimal places: 53,23456700
-Rouded (three decimal places): 53,235
-US decimal point: 53.235
+4.5 -2.2
 ```
+
+### Exemplo de Saída:
+
+```
+Q4
+```
+
+### Exemplo de Entrada:
+
+```
+0.1 0.1
+```
+
+### Exemplo de Saída:
+
+```
+Q1
+```
+
+### Exemplo de Entrada:
+
+```
+0.0 0.0
+```
+
+### Exemplo de Saída:
+
+```
+Origem
+```
+
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/01.%20Sa%C3%ADda%20de%20Dados%20em%20Java/Primeiro_Programa/src/Main.java) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/07.%20Coordenadas/Coordenadas/src/Main.java) minha resposta.
