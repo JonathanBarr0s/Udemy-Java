@@ -73,7 +73,7 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">Java</td>
             <td>Calcular e exibir áreas de figuras geométricas a partir de valores dados. Serão calculadas áreas de triângulo, círculo, trapézio, quadrado e retângulo com base nos valores fornecidos.</td>
         </tr>
-              <tr>
+        <tr>
             <th colspan="4">Estrutura Condicional</th>
         </tr>
         <tr>
@@ -129,6 +129,33 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/08.%20Calculando%20Imposto">Código</a></td>
             <td align="center">Java</td>
             <td>Criar um programa que calculará o imposto de renda de acordo com a tabela de alíquotas em Lisarb, baseado no salário informado, exibindo o valor a pagar com duas casas decimais.</td>
+        </tr>
+        <tr>
+            <th colspan="4">Estruturas Repetitivas</th>
+        </tr>
+        <tr>
+            <th>Exercício</th>
+            <th>Solução</th>
+            <th>Tecnologia</th>
+            <th>Descrição</th>
+        </tr>
+        <tr>
+            <td align="center">Senha Inválida</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2006%20-%20Estruturas%20Repetitivas/01.%20Senha%20Inv%C3%A1lida">Código</a></td>
+            <td align="center">Java</td>
+            <td>Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.</td>
+        </tr>
+        <tr>
+            <td align="center">Coordenadas</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2006%20-%20Estruturas%20Repetitivas/02.%20Coordenadas">Código</a></td>
+            <td align="center">Java</td>
+            <td>Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.</td>
+        </tr>
+        <tr>
+            <td align="center">Pesquisa de Satisfação</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2006%20-%20Estruturas%20Repetitivas/03.%20Pesquisa%20de%20Satisfa%C3%A7%C3%A3o">Código</a></td>
+            <td align="center">Java</td>
+            <td>Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.</td>
         </tr>
     </table>
 </div>
