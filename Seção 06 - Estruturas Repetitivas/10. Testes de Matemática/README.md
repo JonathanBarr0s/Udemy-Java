@@ -1,27 +1,23 @@
-# Exercício - Pesquisa de Satisfação
+# Exercício - Testes de Matemática
 
-Um Posto de combustíveis deseja determinar qual de seus produtos tem a preferência de seus clientes. Escreva um algoritmo para ler o tipo de combustível abastecido (codificado da seguinte forma: 1.Álcool 2.Gasolina 3.Diesel 4.Fim). Caso o usuário informe um código inválido (fora da faixa de 1 a 4) deve ser solicitado um novo código (até que seja válido). O programa será encerrado quando o código informado for o número 4. Deve ser escrito a mensagem: "MUITO OBRIGADO" e a quantidade de clientes que abasteceram cada tipo de combustível, conforme exemplo.
+Fazer um programa para ler um número inteiro positivo N. O programa deve então mostrar na tela N linhas, começando de 1 até N. Para cada linha, mostrar o número da linha, depois o quadrado e o cubo do valor, conforme exemplo.
 
 ### Exemplo de Entrada:
 
 ```
-8
-1
-7
-2
-2
-4
+5
 ```
 
 ### Exemplo de Saída:
 
 ```
-MUITO OBRIGADO
-Alcool: 1
-Gasolina: 2
-Diesel: 0
+1 1 1
+2 4 8
+3 9 27
+4 16 64
+5 25 125
 ```
 
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2006%20-%20Estruturas%20Repetitivas/03.%20Pesquisa%20de%20Satisfa%C3%A7%C3%A3o/PesquisaDeSatisfacao/src/Main.java) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2006%20-%20Estruturas%20Repetitivas/10.%20Testes%20de%20Matem%C3%A1tica/TestesDeMatematica/src/Main.java) minha resposta.
