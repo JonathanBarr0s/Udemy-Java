@@ -143,19 +143,19 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">Senha Inválida</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2006%20-%20Estruturas%20Repetitivas/01.%20Senha%20Inv%C3%A1lida">Código</a></td>
             <td align="center">Java</td>
-            <td>Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.</td>
+            <td>Criar um programa que repetirá a leitura da senha até ser válida. Para cada tentativa incorreta, exibir "Senha Inválida". Ao acertar, mostrar "Acesso Permitido" e encerrar o algoritmo.</td>
         </tr>
         <tr>
             <td align="center">Coordenadas</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2006%20-%20Estruturas%20Repetitivas/02.%20Coordenadas">Código</a></td>
             <td align="center">Java</td>
-            <td>Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.</td>
+            <td>O exercício prevê a leitura das coordenadas (X,Y) de pontos e determina em qual quadrante estão localizados. O algoritmo será encerrado quando uma coordenada for nula.</td>
         </tr>
         <tr>
             <td align="center">Pesquisa de Satisfação</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2006%20-%20Estruturas%20Repetitivas/03.%20Pesquisa%20de%20Satisfa%C3%A7%C3%A3o">Código</a></td>
             <td align="center">Java</td>
-            <td>Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.</td>
+            <td>O programa determinará a preferência do cliente por tipos de combustível. Solicitará códigos, contará e exibirá a quantidade de cada tipo, encerrando ao inserir o código "4".</td>
         </tr>
     </table>
 </div>
