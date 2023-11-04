@@ -191,7 +191,7 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">Divisor</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2006%20-%20Estruturas%20Repetitivas/09.%20Divisor">Código</a></td>
             <td align="center">Java</td>
-            <td>O programa calculará e exibirá os divisores do número inteiro N. Ele mostrará todos os números que dividem N de forma exata.</td>
+            <td>O programa calculará e exibirá os divisores do número inteiro N.</td>
         </tr>
         <tr>
             <td align="center">Testes de Matemática</td>
