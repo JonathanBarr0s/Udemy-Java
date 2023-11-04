@@ -1,43 +1,26 @@
-# Exercício - Par ou Ímpar
+# Exercício - Coordenadas
 
-Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar.
+Escreva um programa para ler as coordenadas (X,Y) de uma quantidade indeterminada de pontos no sistema cartesiano. Para cada ponto escrever o quadrante a que ele pertence. O algoritmo será encerrado quando pelo menos uma de duas coordenadas for NULA (nesta situação sem escrever mensagem alguma).
 
 ### Exemplo de Entrada:
 
 ```
-12
+2 2
+3 -2
+-8 -1
+-7 1
+0 2
 ```
 
 ### Exemplo de Saída:
 
 ```
-PAR
-```
-
-### Exemplo de Entrada:
-
-```
--27
-```
-
-### Exemplo de Saída:
-
-```
-IMPAR
-```
-
-### Exemplo de Entrada:
-
-```
-0
-```
-
-### Exemplo de Saída:
-
-```
-PAR
+primeiro
+quarto
+terceiro
+segundo
 ```
 
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/02.%20Par%20Ou%20Impar/ParOuImpar/src/Main.java) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2006%20-%20Estruturas%20Repetitivas/02.%20Coordenadas/Coordenadas/src/Main.java) minha resposta.
