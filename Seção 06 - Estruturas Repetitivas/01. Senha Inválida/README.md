@@ -1,43 +1,25 @@
-# Exercício - Par ou Ímpar
+# Exercício - Senha Inválida
 
-Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar.
+Escreva um programa que repita a leitura de uma senha até que ela seja válida. Para cada leitura de senha incorreta informada, escrever a mensagem "Senha Invalida". Quando a senha for informada corretamente deve ser impressa a mensagem "Acesso Permitido" e o algoritmo encerrado. Considere que a senha correta é o valor 2002.
 
 ### Exemplo de Entrada:
 
 ```
-12
+2200
+1020
+2022
+2002
 ```
 
 ### Exemplo de Saída:
 
 ```
-PAR
-```
-
-### Exemplo de Entrada:
-
-```
--27
-```
-
-### Exemplo de Saída:
-
-```
-IMPAR
-```
-
-### Exemplo de Entrada:
-
-```
-0
-```
-
-### Exemplo de Saída:
-
-```
-PAR
+Senha Invalida
+Senha Invalida
+Senha Invalida
+Acesso Permitido
 ```
 
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2005%20-%20Estrutura%20Condicional/02.%20Par%20Ou%20Impar/ParOuImpar/src/Main.java) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2006%20-%20Estruturas%20Repetitivas/01.%20Senha%20Inv%C3%A1lida/SenhaInvalida/src/Main.java) minha resposta.
