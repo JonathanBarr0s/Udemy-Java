@@ -15,7 +15,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
   
-</div><br/><br>
+</div><br>
 
 Aqui estão todas as atividades que realizei durante o curso:
 
