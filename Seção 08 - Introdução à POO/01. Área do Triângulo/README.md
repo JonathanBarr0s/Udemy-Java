@@ -2,26 +2,26 @@
 
 Fazer um programa para ler os valores da largura e altura de um retângulo. Em seguida, mostrar na tela o valor de sua área, perímetro e diagonal. Usar uma classe como mostrado no projeto ao lado.
 
-        <br>
-      <div align="center">
-      <table border=1>
-            <tr>
-                <th colspan="4">Desafio do Módulo</th>
-            </tr>
-            <tr>
-                <th>Exercício</th>
-                <th>Solução</th>
-                <th>Tecnologia</th>
-                <th>Descrição</th>
-            </tr>
-            <tr>
-                <td align="center">Desafio</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Desafio">Código</a></td>
-                <td align="center">JavaScript <br> Node.js</td>
-                <td>Esse desafio é composto por 13 exercícios de lógica de programação envolvendo variáveis, condicionais, arrays, loops, objetos e funções.</td>
-            </tr>
-        </table>
-        <br>
+<br>
+<table border=1>      
+<div align="center">
+    <tr>
+        <th colspan="4">Desafio do Módulo</th>
+    </tr>
+    <tr>
+        <th>Exercício</th>
+        <th>Solução</th>
+        <th>Tecnologia</th>
+        <th>Descrição</th>
+    </tr>
+    <tr>
+        <td align="center">Desafio</td>
+        <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Desafio">Código</a></td>
+        <td align="center">JavaScript <br> Node.js</td>
+        <td>Esse desafio é composto por 13 exercícios de lógica de programação envolvendo variáveis, condicionais, arrays, loops, objetos e funções.</td>
+    </tr>
+</table>
+<br>
 
 ### Exemplo de Entrada:
 
