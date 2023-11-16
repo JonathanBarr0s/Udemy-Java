@@ -10,7 +10,7 @@ Fazer um programa para ler os valores da largura e altura de um retângulo. Em s
           <td>- Width: double <br> - Height: double</td>
       </tr>
       <tr>
-          <td>Area(): double <br> Perimeter(): double <br> Diagonal(): double</td>
+          <td>- Area(): double <br> - Perimeter(): double <br> - Diagonal(): double</td>
       </tr>
   </table>
 
