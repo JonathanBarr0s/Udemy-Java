@@ -224,7 +224,7 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td>Criar um programa que, ao receber os dados de um funcionário, calcule e apresente o salário líquido. Em seguida, aplique um aumento percentual ao salário bruto e exiba novamente os dados atualizados.</td>
         </tr>
         <tr>
-            <td align="center">Área do Triângulo</td>
+            <td align="center">Aluno</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2008%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20POO/03.%20Aluno/README.md">Código</a></td>
             <td align="center">Java</td>
             <td>Criar um programa que calcula a nota final de um aluno com base em suas notas trimestrais, indicando se ele passou ou não, e, se reprovado, quantos pontos faltam para a aprovação.</td>
