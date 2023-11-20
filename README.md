@@ -229,6 +229,12 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">Java</td>
             <td>Criar um programa que calcula a nota final de um aluno com base em suas notas trimestrais, indicando se ele passou ou não, e, se reprovado, quantos pontos faltam para a aprovação.</td>
         </tr>
+        <tr>
+            <td align="center">Conversor de Dólar para Real</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2008%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20POO/04.%20Conversor%20Dolar%20Para%20Real">Código</a></td>
+            <td align="center">Java</td>
+            <td>Desenvolver um programa que, por meio de uma classe CurrencyConverter, calculará o valor em reais a ser pago por uma pessoa ao comprar uma quantia específica de dólares, considerando a cotação do dólar e uma taxa de 6% de IOF.</td>
+        </tr>
     </table>
 </div>
 
