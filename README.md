@@ -246,7 +246,7 @@ Aqui estão todas as atividades que realizei durante o curso:
         </tr>
         <tr>
             <td align="center">Banco</td>
-            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2008%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20POO/01.%20%C3%81rea%20do%20Tri%C3%A2ngulo">Código</a></td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco">Código</a></td>
             <td align="center">Java</td>
             <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
         </tr>
