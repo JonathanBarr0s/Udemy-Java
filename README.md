@@ -236,7 +236,7 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td>Desenvolver um programa que, por meio de uma classe CurrencyConverter, calculará o valor em reais a ser pago por uma pessoa ao comprar uma quantia específica de dólares, considerando a cotação do dólar e uma taxa de 6% de IOF.</td>
         </tr>
         <tr>
-            <th colspan="4">Construtores, palavra this, sobrecarga, encapsulamento</th>
+            <th colspan="4">Construtores, Palavra This, Sobrecarga, Encapsulamento</th>
         </tr>
         <tr>
             <th>Exercício</th>
