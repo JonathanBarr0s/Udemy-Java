@@ -11,7 +11,7 @@ Você deve fazer um programa que realize o cadastro de uma conta, dando opção 
 
 </div>
 
-### Exemplo de Entrada:
+### Exemplo de Entrada 01:
 
 ```
 Enter account number: 8532
@@ -20,26 +20,35 @@ Is there na initial deposit (y/n)? y
 Enter initial deposit value: 500.00
 ```
 
-### Exemplo de Saída:
+### Exemplo de Saída 01:
 
 ```
 Account data:
 Account 8532, Holder: Alex Green, Balance: $ 500.00
 ```
-### Exemplo de Entrada:
+### Exemplo de Entrada 02:
 
 ```
-Enter account number: 8532
-Enter account holder: Alex Green
-Is there na initial deposit (y/n)? y
-Enter initial deposit value: 500.00
+Enter a deposit value: 200.00
 ```
 
-### Exemplo de Saída:
+### Exemplo de Saída 02:
 
 ```
-Account data:
-Account 8532, Holder: Alex Green, Balance: $ 500.00
+Updated account data:
+Account 8532, Holder: Alex Green, Balance: $ 700.00
+```
+### Exemplo de Entrada 03:
+
+```
+Enter a withdraw value: 300.00
+```
+
+### Exemplo de Saída 03:
+
+```
+Updated account data:
+Account 8532, Holder: Alex Green, Balance: $ 395.00
 ```
 
 ---
