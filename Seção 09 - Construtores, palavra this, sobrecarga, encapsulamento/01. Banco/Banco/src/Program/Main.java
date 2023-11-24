@@ -45,7 +45,7 @@ public class Main {
 
 		System.out.println();
 		System.out.println();
-		System.out.println("Insira um valor de saque: ");
+		System.out.print("Insira um valor de saque: ");
 		saque -= sc.nextDouble();
 		conta.setSaldo(saque + taxa);
 
