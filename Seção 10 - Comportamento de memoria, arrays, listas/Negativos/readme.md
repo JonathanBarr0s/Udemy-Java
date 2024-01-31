@@ -24,9 +24,4 @@ NUMEROS NEGATIVOS:
 
 
 ---
-
-Minha resposta:
-- Arquivo Principal [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco/Banco/src/Program/Main.java)
-- Arquivo 1 [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco/Banco/src/Entities/ContaBancaria.java)
-
-
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2010%20-%20Comportamento%20de%20memoria%2C%20arrays%2C%20listas/Negativos/src/Programa.java) minha resposta.
