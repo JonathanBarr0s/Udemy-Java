@@ -263,61 +263,67 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">Negativos</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2010%20-%20Comportamento%20de%20memoria%2C%20arrays%2C%20listas/01.%20Negativos">Código</a></td>
             <td align="center">Java</td>
-            <td>Desenvolver um programa futuro que solicita a entrada de N números inteiros, os armazena em um vetor e exibe os negativos.</td>
+            <td>Desenvolver um programa que solicita a entrada de N números inteiros, os armazena em um vetor e exibe os negativos.</td>
         </tr>
         <tr>
-            <td align="center">Banco</td>
-            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco">Código</a></td>
+            <td align="center">Soma Vetor</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2010%20-%20Comportamento%20de%20memoria%2C%20arrays%2C%20listas/02.%20soma_vetor">Código</a></td>
             <td align="center">Java</td>
-            <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
+            <td>Desenvolver um programa que, ao receber N números reais, os armazene em um vetor e apresente sua soma, média e elementos.</td>
         </tr>
         <tr>
-            <td align="center">Banco</td>
-            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco">Código</a></td>
+            <td align="center">Alturas</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2010%20-%20Comportamento%20de%20memoria%2C%20arrays%2C%20listas/03.%20Alturas">Código</a></td>
             <td align="center">Java</td>
-            <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
+            <td>Criar um programa que leia dados de pessoas (nome, idade e altura), calcule a altura média, e mostre a porcentagem de pessoas com menos de 16 anos, além de seus nomes.</td>
         </tr>
         <tr>
-            <td align="center">Banco</td>
-            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco">Código</a></td>
+            <td align="center">Numeros Pares</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2010%20-%20Comportamento%20de%20memoria%2C%20arrays%2C%20listas/04.%20numeros_pares">Código</a></td>
             <td align="center">Java</td>
-            <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
+            <td>Criar programa que lê N inteiros, os armazena, exibe pares e quantos são, conforme exemplo fornecido.</td>
         </tr>
         <tr>
-            <td align="center">Banco</td>
-            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco">Código</a></td>
+            <td align="center">Maior Posição</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2010%20-%20Comportamento%20de%20memoria,%20arrays,%20listas/05.%20maior_posicao/readme.md">Código</a></td>
             <td align="center">Java</td>
-            <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
+            <td>Criar um programa que lerá N números reais, encontrará o maior valor e sua posição no vetor.</td>
         </tr>
         <tr>
-            <td align="center">Banco</td>
-            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco">Código</a></td>
+            <td align="center">Soma Vetores</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2010%20-%20Comportamento%20de%20memoria,%20arrays,%20listas/06.%20soma_vetores/readme.md">Código</a></td>
             <td align="center">Java</td>
-            <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
+            <td>Criar um programa que, lerá dois vetores A e B, somará seus elementos correspondentes e imprimirá o vetor resultante C.</td>
         </tr>
         <tr>
-            <td align="center">Banco</td>
-            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco">Código</a></td>
+            <td align="center">Abaixo da Média</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2010%20-%20Comportamento%20de%20memoria,%20arrays,%20listas/07.%20abaixo_da_media/readme.md">Código</a></td>
             <td align="center">Java</td>
-            <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
+            <td>Desenvolver um programa que leia um vetor de números reais, calcule a média aritmética e exiba os elementos abaixo dessa média.</td>
         </tr>
         <tr>
-            <td align="center">Banco</td>
-            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco">Código</a></td>
+            <td align="center">Média Pares</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2010%20-%20Comportamento%20de%20memoria,%20arrays,%20listas/08.%20media_pares/readme.md">Código</a></td>
             <td align="center">Java</td>
-            <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
+            <td>Calcular a média dos números pares em um vetor de inteiros. Se nenhum número par for inserido, exibir "NENHUM NUMERO PAR".</td>
         </tr>
         <tr>
-            <td align="center">Banco</td>
-            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco">Código</a></td>
+            <td align="center">Mais Velho</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2010%20-%20Comportamento%20de%20memoria%2C%20arrays%2C%20listas/09.%20mais_velho">Código</a></td>
             <td align="center">Java</td>
-            <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
+            <td>Criar um programa que leia nomes e idades, armazene-os, e depois mostre o nome da pessoa mais velha.</td>
         </tr>
         <tr>
-            <td align="center">Banco</td>
-            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco">Código</a></td>
+            <td align="center">Aprovados</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2010%20-%20Comportamento%20de%20memoria%2C%20arrays%2C%20listas/10.%20aprovados">Código</a></td>
             <td align="center">Java</td>
-            <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
+            <td>Desenvolver um programa que lerá informações de alunos e notas, armazenando em vetores, e imprimirá os nomes dos alunos aprovados, com média igual ou superior a 6.0.</td>
+        </tr>
+        <tr>
+            <td align="center">Dados Pessoas</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2010%20-%20Comportamento%20de%20memoria%2C%20arrays%2C%20listas/11.%20dados_pessoais">Código</a></td>
+            <td align="center">Java</td>
+            <td>Desenvolver um programa que, ao receber dados de altura e gênero de N pessoas, calculará e exibirá a menor e a maior altura do grupo, a média de altura das mulheres e o número de homens.</td>
         </tr>
     </table>
 </div>
