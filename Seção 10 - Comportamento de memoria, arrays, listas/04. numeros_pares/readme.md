@@ -1,7 +1,8 @@
-# Exercício - Negativos
+# Exercício - Numeros Pares
 
-Faça um programa que leia um número inteiro positivo N (máximo = 10) e depois N números inteiros
-e armazene-os em um vetor. Em seguida, mostrar na tela todos os números negativos lidos. 
+Faça um programa que leia N números inteiros e armazene-os em um vetor. Em seguida, mostre na
+tela todos os números pares, e também a quantidade de números pares. 
+
 
 </div>
 
@@ -10,18 +11,19 @@ e armazene-os em um vetor. Em seguida, mostrar na tela todos os números negativ
 ```
 Quantos numeros voce vai digitar? 6
 Digite um numero: 8
-Digite um numero: -2
-Digite um numero: 9
-Digite um numero: 10
-Digite um numero: -3
-Digite um numero: -7
-NUMEROS NEGATIVOS:
--2
--3
--7 
+Digite um numero: 2
+Digite um numero: 11
+Digite um numero: 14
+Digite um numero: 13
+Digite um numero: 20
+
+NUMEROS PARES:
+8 2 14 20
+
+QUANTIDADE DE PARES = 4
 
 ```
 
 
 ---
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2010%20-%20Comportamento%20de%20memoria%2C%20arrays%2C%20listas/Negativos/src/Programa.java) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2010%20-%20Comportamento%20de%20memoria%2C%20arrays%2C%20listas/04.%20numeros_pares/src/Aplica%C3%A7%C3%A3o/Programa.java) minha resposta.

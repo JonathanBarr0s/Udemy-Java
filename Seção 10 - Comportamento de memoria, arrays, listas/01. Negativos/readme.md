@@ -24,4 +24,4 @@ NUMEROS NEGATIVOS:
 
 
 ---
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2010%20-%20Comportamento%20de%20memoria%2C%20arrays%2C%20listas/Negativos/src/Programa.java) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2010%20-%20Comportamento%20de%20memoria%2C%20arrays%2C%20listas/01.%20Negativos/src/Programa.java) minha resposta.

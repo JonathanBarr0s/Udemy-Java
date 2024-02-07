@@ -1,27 +1,40 @@
 # Exercício - Negativos
 
-Faça um programa que leia um número inteiro positivo N (máximo = 10) e depois N números inteiros
-e armazene-os em um vetor. Em seguida, mostrar na tela todos os números negativos lidos. 
+Faça um programa para ler dois vetores A e B, contendo N elementos cada. Em seguida, gere um
+terceiro vetor C onde cada elemento de C é a soma dos elementos correspondentes de A e B. Imprima
+o vetor C gerado. 
+
 
 </div>
 
 ### Exemplo:
 
 ```
-Quantos numeros voce vai digitar? 6
-Digite um numero: 8
-Digite um numero: -2
-Digite um numero: 9
-Digite um numero: 10
-Digite um numero: -3
-Digite um numero: -7
-NUMEROS NEGATIVOS:
--2
--3
--7 
+Quantos valores vai ter cada vetor? 6
+Digite os valores do vetor A:
+8
+2
+11
+14
+13
+20
+Digite os valores do vetor B:
+5
+10
+3
+1
+10
+7
+VETOR RESULTANTE:
+13
+12
+14
+15
+23
+27 
 
 ```
 
 
 ---
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2010%20-%20Comportamento%20de%20memoria%2C%20arrays%2C%20listas/Negativos/src/Programa.java) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2010%20-%20Comportamento%20de%20memoria%2C%20arrays%2C%20listas/06.%20soma_vetores/src/Aplica%C3%A7%C3%A3o/Programa.java) minha resposta.
