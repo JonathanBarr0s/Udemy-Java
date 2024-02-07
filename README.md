@@ -250,6 +250,75 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">Java</td>
             <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
         </tr>
+        <tr>
+            <th colspan="4">Comportamento de memoria, arrays, listas</th>
+        </tr>
+        <tr>
+            <th>Exercício</th>
+            <th>Solução</th>
+            <th>Tecnologia</th>
+            <th>Descrição</th>
+        </tr>
+        <tr>
+            <td align="center">Negativos</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2010%20-%20Comportamento%20de%20memoria%2C%20arrays%2C%20listas/01.%20Negativos">Código</a></td>
+            <td align="center">Java</td>
+            <td>Desenvolver um programa futuro que solicita a entrada de N números inteiros, os armazena em um vetor e exibe os negativos.</td>
+        </tr>
+        <tr>
+            <td align="center">Banco</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco">Código</a></td>
+            <td align="center">Java</td>
+            <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
+        </tr>
+        <tr>
+            <td align="center">Banco</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco">Código</a></td>
+            <td align="center">Java</td>
+            <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
+        </tr>
+        <tr>
+            <td align="center">Banco</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco">Código</a></td>
+            <td align="center">Java</td>
+            <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
+        </tr>
+        <tr>
+            <td align="center">Banco</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco">Código</a></td>
+            <td align="center">Java</td>
+            <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
+        </tr>
+        <tr>
+            <td align="center">Banco</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco">Código</a></td>
+            <td align="center">Java</td>
+            <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
+        </tr>
+        <tr>
+            <td align="center">Banco</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco">Código</a></td>
+            <td align="center">Java</td>
+            <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
+        </tr>
+        <tr>
+            <td align="center">Banco</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco">Código</a></td>
+            <td align="center">Java</td>
+            <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
+        </tr>
+        <tr>
+            <td align="center">Banco</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco">Código</a></td>
+            <td align="center">Java</td>
+            <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
+        </tr>
+        <tr>
+            <td align="center">Banco</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Construtores%2C%20palavra%20this%2C%20sobrecarga%2C%20encapsulamento/01.%20Banco">Código</a></td>
+            <td align="center">Java</td>
+            <td>Criar um programa em que o usuário insere largura e altura de um triângulo retângulo, e a classe Rectangle calcula e exibe área, perímetro e diagonal.</td>
+        </tr>
     </table>
 </div>
 
